@@ -1,0 +1,17 @@
+.online{
+    color: green;
+}
+.offline{
+    color: orange;
+}
+.borderRadius{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 300px;
+    text-align: center;
+}
+.border{
+    border: 2px solid black;
+    width: 600px;
+    text-align: right;
+}
