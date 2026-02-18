@@ -31,8 +31,10 @@ function WithApi(){
                             
                             <div key={index}>
                                 <h1>{index} Title:{item.title}</h1>
+                                <img src={item.image} alt="" style={{width:"200px"}} / >
                                 {/* <h1>{index}</h1>
                                 <h1>{item.title}</h1> */}
+                                {/* https://dummyjson.com/recipes */}
                             </div>
                     ))
             }
